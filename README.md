@@ -18,3 +18,18 @@ This script performs specific actions related to the Microsoft Outlook email cli
 
 ## [Windows_Update](https://github.com/PRATIKK0709/DebloatifyWindows_DW/blob/main/Disable/Windows_Update.py)
 This script disables automatic updates for Windows, providing users with more control over when updates are installed on their system.
+
+
+# Instructions for Non-Programming Users:
+
+1. Download the Executable: Go to the GitHub release page for the "DebloatifyWindows_DW" repository: [Download app.exe](https://github.com/PRATIKK0709/DebloatifyWindows_DW/releases/download/windows11/app.exe).
+
+2. Find the Executable: Look for the latest release version and click on the `app.exe` file under the assets section to start the download.
+
+3. Run the Executable: Once downloaded, locate the `app.exe` file in your Downloads folder or the directory where your browser saves files. Double-click on it to run the application.
+> [!NOTE]  
+> Before launching the executable (`app.exe`), please ensure that you run it with administrator privileges. Right-click on the executable file and select "Run as administrator" from the context menu to ensure proper execution. This is necessary for making changes to system settings and registry entries.
+
+4. Follow On-Screen Instructions: The application will open with options to debloat and optimize Windows. Follow the prompts to select desired actions and apply changes.
+
+5. Enjoy the Optimized Windows Experience: After the application finishes, your Windows system will be debloated and optimized for a cleaner, faster experience.
