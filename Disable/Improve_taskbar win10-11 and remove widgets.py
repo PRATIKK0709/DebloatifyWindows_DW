@@ -8,7 +8,6 @@ def set_registry_value(key_path, value_name, value_data, value_type=winreg.REG_D
         winreg.CloseKey(key)
     except Exception as e:
         print("An error occurred:", e)
-
 # Windows 11 Taskbar Dashboard
 set_registry_value(r"Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "TaskbarDa", 0)
 
