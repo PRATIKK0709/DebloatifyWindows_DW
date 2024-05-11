@@ -27,9 +27,10 @@ This script disables automatic updates for Windows, providing users with more co
 2. Find the Executable: Look for the latest release version and click on the `app.exe` file under the assets section to start the download.
 
 3. Run the Executable: Once downloaded, locate the `app.exe` file in your Downloads folder or the directory where your browser saves files. Double-click on it to run the application.
-> [!NOTE]  
-> Before launching the executable (`app.exe`), please ensure that you run it with administrator privileges. Right-click on the executable file and select "Run as administrator" from the context menu to ensure proper execution. This is necessary for making changes to system settings and registry entries.
 
 4. Follow On-Screen Instructions: The application will open with options to debloat and optimize Windows. Follow the prompts to select desired actions and apply changes.
 
 5. Enjoy the Optimized Windows Experience: After the application finishes, your Windows system will be debloated and optimized for a cleaner, faster experience.
+
+> [!NOTE]  
+> Before launching the executable (`app.exe`), please ensure that you run it with administrator privileges. Right-click on the executable file and select "Run as administrator" from the context menu to ensure proper execution. This is necessary for making changes to system settings and registry entries.
